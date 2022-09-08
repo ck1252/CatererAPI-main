@@ -9,7 +9,7 @@ spring:
   data:
     mongodb:
       database: caterer_db
-      uri: mongodb+srv://Hunza:Hunza%40123@cluster0.hbqno.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://chandan:chandan123@cluster1.tvrb0km.mongodb.net/?retryWrites=true&w=majority
 logging:
   file:
     name: catererapi.log
